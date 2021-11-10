@@ -17,7 +17,7 @@ You will need to make sure you change this to be your license.
 Once you have the correct parameters within the ```.env``` file, you can run this library using the following command.
 
 ```
-docker-compose up
+docker-compose up --detach
 ```
 
 This will start the Form.io platform, where you can then go to the following URL's in your browser:
