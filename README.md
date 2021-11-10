@@ -8,7 +8,7 @@ You must have Docker installed and running before you can use this library.
  - Within the folder, you will need to edit the ```.env``` file and change the following line.
 
 ```
-LICENSE=YOURLICENSE
+LICENSE_KEY=YOURLICENSE
 ```
 
 You will need to make sure you change this to be your license.
